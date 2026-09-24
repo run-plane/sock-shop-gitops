@@ -14,3 +14,4 @@ images:
 patches:
   - path: session-db-patch.yaml
   - path: front-end-replicas.yaml
+  - path: front-end-audit-test.yaml
